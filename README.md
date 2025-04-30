@@ -42,8 +42,8 @@ Welcome to the **AI-Powered Resume Screening & Salary Estimator**, a Streamlit-b
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/ai-resume-screener.git
-cd ai-resume-screener
+git clone https://github.com/vikas-kashyap97/Resume-Screening.git
+cd Resume-Screening
 ```
 
 ### 2. Create and activate a virtual environment
